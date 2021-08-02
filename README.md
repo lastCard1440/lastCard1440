@@ -10,3 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 👋 Hi, I’m @lastCard1440
 I'm new to Android and Kotlin
+
+👀 I’m interested in developing my app on Android with Kotlin.
